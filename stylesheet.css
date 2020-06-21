@@ -44,7 +44,7 @@
 .subscribeSection{
     display:flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .col-sm-6, .col-sm-4 {
