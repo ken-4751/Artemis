@@ -46,6 +46,11 @@
     flex-direction: column;
 }
 
+.col-sm-6, .col-sm-4 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 /* Responsive */
 @media(max-width:360px){
     .img-tab {
