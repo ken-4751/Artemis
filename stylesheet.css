@@ -150,7 +150,7 @@
 
 @media(min-width:992px){
     .img-tab {
-        width: 80%;
+        width: 60%;
     }
     .tab {
         style=border: 0px;
@@ -164,7 +164,7 @@
 
 @media(min-width:1200px){
     .img-tab {
-        width: 90%;
+        width: 50%;
     }
     .tab {
         style=border: 0px;
