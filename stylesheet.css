@@ -59,19 +59,19 @@
 /* Responsive */
 @media(max-width:360px){
     .img-tab {
-        width: 60%;
+        width: 80%;
     }
     .tab {
         style=border: 0px;
         position: absolute;
-        top: 340px;
+        top: 320px;
         left: 0;
         right: 0;
         margin:auto;
     }
 
     .trustedBy {
-        padding-top: 30px;
+        padding-top: 50px;
     }
 
     p.pb-1 {
@@ -88,12 +88,12 @@
 
 @media(min-width:361px){
     .img-tab {
-        width: 60%;
+        width: 90%;
     }
     .tab {
         style=border: 0px;
         position: absolute;
-        top: 340px;
+        top: 285px;
         left: 0;
         right: 0;
         margin:auto;
@@ -108,12 +108,12 @@
 
 @media(min-width:575px){
     .img-tab {
-        width: 60%;
+        width: 90%;
     }
     .tab {
         style=border: 0px;
         position: absolute;
-        top: 300px;
+        top: 240px;
         left: 0;
         right: 0;
         margin:auto;
@@ -125,12 +125,12 @@
 
 @media(min-width:576px){
     .img-tab {
-        width: 60%;
+        width: 90%;
     }
     .tab {
         style=border: 0px;
         position: absolute;
-        top: 300px;
+        top: 240px;
         left: 0;
         right: 0;
         margin:auto;
